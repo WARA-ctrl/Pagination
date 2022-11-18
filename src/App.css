@@ -27,7 +27,11 @@ body {
   min-width: 200px;
   margin: 2rem 2rem 0;
   padding: 2rem;
+<<<<<<< HEAD
   width: 230px;
+=======
+  width: 220px;
+>>>>>>> 454d17799c93dc9824b6db3deaa8d51eb01339e5
   height: 240px;
   background-color: rgb(255, 255, 255);
   border-radius: 15px;
